@@ -1,0 +1,37 @@
+1.WEBSITE
+    
+	"WEBSIDE In Multiple WebPages and medias(image,video,audio.etc).webside is collaction of data on internet"
+
+2.WWW(WORLD WIDE WEB)
+
+	"WWW Internet Pe Files,Websites Webpages,Medias.etc store karta he.usko vapas lane ke liye url ka use hota he."
+
+3.HTTP/HTTPS.(HYPERTEXT TRANFER PROTOCOL/HYPERTEXT TRANSFER PROTOCOL SECURE)
+    
+	"HTTP Se File Transfer share karte he to securely file share nhi hoti but HTTPS se koi bhi securly file share kar sakate he and -access kar sakte he."
+
+4.CLIENT SERVER
+
+	"CLIENT server ko request karta he or server  client ki request ka response deta he"
+
+5.DOMAIN
+
+	"DOMAIN ek website ka particular address hota he (ex. google.com) google is domain name he or .com top level domain he."
+
+6.HOSTING
+
+	"HOSTING ka matalab he ki internet ki duniya me space(jagah banana) lena or data store karna." 
+
+7.FTP(FILE TRANSFER PROTOCOL)
+
+	"FTP ka use file transfer ke liye use kiya jata he or file ka internet same hona chahiye ex.ek pc se dusre pc me same network  	connected hona chahiye"
+
+8.EXTENSION
+
+	"EXTENTION file ka type batati he harek file ka alag alag hota he (ex. .jpg,.png,.mp4,.mp3 etc.)"
+
+9.URL-URI-URN(UNIFORM RESOURCE LOCATOR-UNIFORM RESOURCE IDENTIFIER-UNIFORM RESOURCE NAME)
+
+	1.URL-"webside ka internet pe address ko url kahete he.url se webside tak pahuchsakte he "
+	2.URI-""
+	
